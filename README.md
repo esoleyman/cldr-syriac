@@ -1,5 +1,5 @@
 # cldr-syriac
-Track issues for Syriac data in the CLDR Suvery Tool
+Track issues for Syriac data in the CLDR Survey Tool
 
 - [Syriac](https://st.unicode.org/cldr-apps/v#/syr//)
 - [CLDR Current Cycle](https://docs.google.com/spreadsheets/d/1N6inI5R84UoYlRwuCNPBOAP7ri4q2CmJmh8DC5g-S6c/edit#gid=1680747936)
