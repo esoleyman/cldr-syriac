@@ -4,10 +4,8 @@ Track issues, follow style guide, and translate words and phrases in Syriac for 
 
 ### CLDR Cycle
 
-- [CLDR Current Cycle](https://docs.google.com/spreadsheets/d/1N6inI5R84UoYlRwuCNPBOAP7ri4q2CmJmh8DC5g-S6c/edit#gid=1680747936)
-   - 2021 Oct 20 -- v41 Start Preparation
-   - 2021 Nov 24 -- v41 Start Shakedown
-   - 2021 Dec 01 -- v41 Start General Submission (Winter=Limited)
+- [CLDR Next Cycle](https://docs.google.com/spreadsheets/d/1N6inI5R84UoYlRwuCNPBOAP7ri4q2CmJmh8DC5g-S6c/edit#gid=2012274700)
+   - 2022 May 18 -- v42 Start Preparation
 
 ### Style Guide
 
